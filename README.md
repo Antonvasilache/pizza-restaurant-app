@@ -14,13 +14,13 @@ Order confirmation comes with an estimated delivery timer, which updates on refr
 Access the website on the link below, provide your name and create an order of your choice. Provide phone number and address before order confirmation. Once the order is confirmed, you can leave the order confirmation page, and check back on your order's status using the order ID in the search bar in the upper right part.
 
 ### Tech/frameworks used:  
-HTML/CSS
-Javascript
-React
-React Router
-Redux
-TailwindCSS
-Vite
+HTML/CSS   
+Javascript  
+React  
+React Router  
+Redux  
+TailwindCSS  
+Vite  
 
 ### Live version
 The live version can be viewed [here](https://pizza-restaurant-app-av.netlify.app/).
